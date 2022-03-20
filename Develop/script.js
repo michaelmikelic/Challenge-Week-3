@@ -43,5 +43,10 @@ if (passwordsLength >= 129) {
 }
 else {}
 
+//generate a random password
+//var randomNumber = function(min,max) {
+  //var value = Math.floor(Math.random()) * (min-max);
+ // return value
+//}
 
 }
